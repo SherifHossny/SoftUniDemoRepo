@@ -1,6 +1,1 @@
-Neshto si tam
-<<<<<<< HEAD
-CMD 1
-=======
-ot ednata papka
->>>>>>> 59d247b7c6b1d052ad0676efb2f7ec1118be6bef
+Neshto  Golqmo
