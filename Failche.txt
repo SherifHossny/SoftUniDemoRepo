@@ -1,2 +1,2 @@
 Neshto si tam
-ot papkata na CMD
+CMD 1
