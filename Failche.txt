@@ -1,2 +1,3 @@
-Neshto si -  za da ima promeni
-ot ednata papka na Demo 2
+Neshto si tam
+CMD 1
+ot ednata papka
